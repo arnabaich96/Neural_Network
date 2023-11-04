@@ -1,5 +1,5 @@
 ---
-title: "Homework_7"
+title: "Neural Network"
 author: "Arnab Aich"
 date: "`r Sys.Date()`"
 output: pdf_document
